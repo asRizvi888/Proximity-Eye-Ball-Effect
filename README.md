@@ -7,7 +7,7 @@ A vanilla javascript approach towards proximity based eye ball effect
   
 # Working method
 
-   * Detects <b>mouse movement</b> with <br>
+   * Detects `mouse movement` with <br>
    ```js
    addEventListener('mousemove', e => {
     /*
