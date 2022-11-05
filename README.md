@@ -28,4 +28,4 @@ A vanilla javascript approach towards proximity based eye ball effect
     }
 
    ```
-   > Find code implementation [here] ()
+   > Find code implementation [here](https://github.com/asRizvi888/Proximity-Eye-Ball-Effect/blob/main/app.js)
